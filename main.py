@@ -2,7 +2,8 @@
 # narxlar = [3000, 8000, 25000, 12000]
 # print("Mahsulotlar va ularning narxlari:")
 # for i in range(len(mahsulotlar)):
-#     print(f"{mahsulotlar[i]} - {narxlar[i]} so'm")
+#     if narxlar[i] >= 10000:
+#      print(f"{mahsulotlar[i]} - {narxlar[i]} so'm")
 
 
 
